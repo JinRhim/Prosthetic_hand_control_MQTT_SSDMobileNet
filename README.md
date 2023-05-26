@@ -1,1 +1,2 @@
-# Prosthetic_hand_control_MQTT_SSDMobileNet
+# Demo 
+[![Watch the video](youtu.be/K1PvsZXECzM)](youtu.be/K1PvsZXECzM)
