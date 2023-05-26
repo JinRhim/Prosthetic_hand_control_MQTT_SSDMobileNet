@@ -1,0 +1,1 @@
+# Prosthetic_hand_control_MQTT_SSDMobileNet
