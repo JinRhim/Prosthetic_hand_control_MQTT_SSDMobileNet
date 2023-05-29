@@ -24,7 +24,7 @@
 
 ![image](https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/e6981d82-9dd0-4bbe-8cf2-b13b7d55259c) 
 
-3. Open distance_sender_no_lcd.py --> tools --> save script to OpenMV Cam. Now the script is save to OpenMV H7 so you can use external battery. Change SSID and PASSWORD as wifi ID and password
+3. Open distance_sender_no_lcd.py --> tools --> save script to OpenMV Cam. Now the script is saved to OpenMV H7 so you can use external battery. Change SSID and PASSWORD as wifi ID and password
 
 ![image](https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/eb6586d9-5f41-4746-bf5d-4e478c7ea752)
 
