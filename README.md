@@ -1,5 +1,5 @@
 # Demo 
-<img width="1054" alt="image" src="https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/0841481e-0b59-4d48-9771-e6e646b5e3ee">
+![image](https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/b86a5f25-ff27-47cd-916b-64861b0105a2)
 
 ### Youtube Video 
 [![Watch the video](https://img.youtube.com/vi/K1PvsZXECzM/0.jpg)](https://www.youtube.com/watch?v=K1PvsZXECzM)
