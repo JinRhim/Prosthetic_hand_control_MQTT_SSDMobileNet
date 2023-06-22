@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>frame_527</filename>
+    <path>openmv_auto_exposure-PascalVOC-export/Annotations/frame_527.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>157.9598616260593</xmin>
+        <ymin>151.03073689088984</ymin>
+        <xmax>213.44365730932202</xmax>
+        <ymax>207.7446537341102</ymax>
+    </bndbox>
+</object><object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>176.68073027012713</xmin>
+        <ymin>137.7863810911017</ymin>
+        <xmax>289.49222060381356</xmax>
+        <ymax>240</ymax>
+    </bndbox>
+</object>
+</annotation>
