@@ -10,10 +10,12 @@
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
+
+
 class Display {
 public:
   Display(uint8_t address);
-  void init(uint8_t address);
+  void init();
   void clear();
   void displayText(const String& text, uint8_t textSize);
 private:

@@ -1,6 +1,6 @@
 // MQTTCommuncation.cpp file 
 #include "MQTTCommunication.h"
-
+#include "Display.h"
 char* ssid = "ICELab"; // your WiFi SSID
 char* password = "ICELab_Zhang"; // your WiFi password
 const char* mqtt_server = "test.mosquitto.org"; // MQTT broker server
