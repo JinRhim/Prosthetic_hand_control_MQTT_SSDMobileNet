@@ -21,7 +21,19 @@
   <img src="gif/autobrightness_adjusted_fullscreen_v2.gif" alt="Alt Text" width="650" height="400">
 </div>
 
+## EMG Sensor 
+<div>
+    <img src="https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/ed164638-3cb3-4249-92a0-e89609df2579" alt="Image 1" width="300" height="250">
+    <img src="https://github.com/JinRhim/Prosthetic_hand_control_MQTT_SSDMobileNet/assets/93160540/090ed69c-f359-4cc0-bc3e-3802f43bf522" alt="Image 2" width="400" height="250">
+</div>
 
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/emg_filter.gif" alt="Alt Text" width="650" height="400">
+  <img src="gif/emg_7:11_3.gif" alt="Alt Text" width="650" height="400">
+  <img src="gif/emg_7:11_4.gif" alt="Alt Text" width="650" height="400">
+</div>
 
 
 ## How to install
