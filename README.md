@@ -72,3 +72,37 @@ OpenMV/test 69
 6. Connect LiPO Battery to OpenMV. If OpenMV does not turn on, probably the + and - is flipped.
 
 
+# Update 
+
+#### Slides: https://docs.google.com/presentation/d/1eCgFYzyATt7UYBIcP0_li7qxv4ZbzFE2mWxo04YrdAs/edit?usp=sharing
+#### Boards are designed by EAGLE 
+#### Additional Documentation: https://jin-gitbook.gitbook.io/engineering-101/readme/how-to-make-ml-dataset-using-microsoft-vott
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/OYMotion_AD2_flexing1.gif" alt="OYMotion AD2 Flexing 1" width="500" height="300">
+  <img src="gif/OYMotion_AD2_flexing2.gif" alt="OYMotion AD2 Flexing 2" width="500" height="300">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/OYMotion_AD2_flexing4.gif" alt="OYMotion AD2 Flexing 4" width="450" height="300">
+  <img src="gif/OYMotion_AD2_touching_table.gif" alt="OYMotion AD2 Touching Table" width="450" height="300">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/OYMotion_threshold_system.gif" alt="OYMotion Threshold System" width="400" height="300">
+  <img src="gif/OYMotion_threshold_system_2.gif" alt="OYMotion Threshold System 2" width="400" height="300">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/coral_distance_1.gif" alt="Coral Distance 1" width="350" height="350">
+  <img src="gif/coral_distance_2.gif" alt="Coral Distance 2" width="350" height="350">
+  <img src="gif/coral_extension_board_uart.gif" alt="Coral Extension Board UART" width="700" height="400">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/esp32_mainboard_emg_test.gif" alt="ESP32 Mainboard EMG Test" width="800" height="600">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/esp32_mainboard_v1.gif" alt="ESP32 Mainboard V1" width="400" height="300">
+  <img src="gif/esp32_receiver_board.gif" alt="ESP32 Receiver Board" width="500" height="300">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="gif/coral-camera.gif" alt="Coral Camera" width="600" height="400">
+</div>
