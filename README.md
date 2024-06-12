@@ -97,8 +97,9 @@ OpenMV/test 69
   <img src="gif/coral_extension_board_uart.gif" alt="Coral Extension Board UART" width="700" height="400">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="gif/esp32_mainboard_emg_test.gif" alt="ESP32 Mainboard EMG Test" width="800" height="600">
+  <img src="gif/esp32_mainboard_v1.gif" alt="ESP32 Mainboard V1" width="400" height="300">
+  <img src="gif/esp32_receiver_board.gif" alt="ESP32 Receiver Board" width="500" height="300">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="gif/coral-camera.gif" alt="Coral Camera" width="600" height="400">
+  <img src="gif/esp32_mainboard_emg_test.gif" alt="ESP32 Mainboard EMG Test" width="800" height="600">
 </div>
